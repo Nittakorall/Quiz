@@ -1,0 +1,4 @@
+Vilken "ternary operator" sats stämmer?
+
+1. isComputer ? "Yes": "no"
+2. isComputer : "yes" ? "No"
